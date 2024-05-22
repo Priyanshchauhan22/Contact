@@ -1,0 +1,192 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.bg-indigo-50 {
+    background-color: #e0e7ff; /* Lighter shade of blue */
+}
+
+.bg-indigo-600 {
+    background-color: #1e3a8a; /* Darker shade of blue */
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
+
+.text-indigo-600 {
+    color: #1e3a8a; /* Darker shade of blue */
+}
+
+.text-indigo-200 {
+    color: #bfdbfe; /* Lighter shade of blue */
+}
+
+.text-gray-900 {
+    color: #1f2937; /* Darker shade of gray */
+}
+
+.text-gray-600 {
+    color: #6b7280; /* Medium shade of gray */
+}
+
+.text-white {
+    color: #ffffff;
+}
+
+.text-black {
+    color: #000000;
+}
+
+.text-blue-800 {
+    color: #1e40af; /* Darker shade of blue */
+}
+
+.text-3xl {
+    font-size: 1.875rem;
+}
+
+.text-4xl {
+    font-size: 2.25rem;
+}
+
+.text-xl {
+    font-size: 3rem; /* Increased size for 'Contact Details' */
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.font-semibold {
+    font-weight: 600;
+}
+
+.leading-7 {
+    line-height: 1.75rem;
+}
+
+.leading-8 {
+    line-height: 2rem;
+}
+
+.px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.px-6 {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.py-2.5 {
+    padding-top: 0.625rem;
+    padding-bottom: 0.625rem;
+}
+
+.py-10 {
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+
+.py-24 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.py-32 {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+.mt-2 {
+    margin-top: 0.5rem;
+}
+
+.mt-6 {
+    margin-top: 1.5rem;
+}
+
+.mt-16 {
+    margin-top: 4rem;
+}
+
+.mt-20 {
+    margin-top: 5rem;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.max-w-2xl {
+    max-width: 36rem;
+}
+
+.max-w-4xl {
+    max-width: 56rem;
+}
+
+.max-w-7xl {
+    max-width: 80rem;
+}
+
+.max-w-screen-xl {
+    max-width: 80rem;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.hover\\:text-blue-800:hover {
+    color: #1e40af; /* Darker shade of blue */
+}
+
+.rounded {
+    border-radius: 0.25rem;
+}
+
+.border-gray-200 {
+    border-color: #e5e7eb; /* Lighter shade of gray */
+}
+
+.tracking-tight {
+    letter-spacing: -0.025em;
+}
+
+.whitespace-nowrap {
+    white-space: nowrap;
+}
+
+.text-center {
+    text-align: center; /* Center align text */
+}
+
+a {
+    color: #1e40af; /* Darker shade of blue */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    color: #1e40af; /* Darker shade of blue */
+    text-decoration
+}
